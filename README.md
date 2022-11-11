@@ -1,0 +1,2 @@
+# awesome-moonwaves
+ awessomewm rice
